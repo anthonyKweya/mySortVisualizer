@@ -11,7 +11,6 @@
 ## Project Setup
 
 ```
-git clone git@github.com:MickFrog/sort-visualizer.git
 cd sort-visualizer
 npm install
 npm start
